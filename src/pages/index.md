@@ -3,7 +3,6 @@ templateKey: index-page
 title: Traditional Quality Outdoor Gear
 image: /img/shutterstock_124054336.jpg
 heading: Traditional Quality Outdoor Gear
-subheading: HIDDEN
 mainpitch:
   title: Why Kaldi
   description: >
