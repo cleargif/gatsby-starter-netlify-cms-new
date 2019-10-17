@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Traditional Quality Outdoor Gear
 image: /img/shutterstock_124054336.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Traditional Quality Outdoor Gear
+subheading: HIDDEN
 mainpitch:
   title: Why Kaldi
   description: >
